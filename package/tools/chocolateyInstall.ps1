@@ -1,7 +1,7 @@
 ﻿$ErrorActionPreference = 'Stop'
 
 # Todo: Use javascript in a GitHub workflow to get the URL and hash of latest download
-$version = '21_1_1'
+$version = '21_2_4'
 
 $packageName = 'SmartGit'
 $toolsDir = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
